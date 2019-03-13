@@ -2,6 +2,7 @@
   "name": "project-6-lit-tracker",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://www.brianarm.dev/litTracker/",
   "dependencies": {
     "axios": "^0.18.0",
     "firebase": "^5.8.5",
