@@ -12,7 +12,7 @@ class Header extends Component {
   render() {
     return (
       <div className='header'>
-        <h1>Lit Tracker Test</h1>
+        <h1>Lit Tracker</h1>
         <img src={lighthouseLogo} alt="A logo of a stack of books with a lighthouse"/>
         <button aria-label="Open Reading Lists" title="Open Reading Lists" onClick={this.props.handleListModal}><i className="fas fa-list"></i></button>
       </div>
